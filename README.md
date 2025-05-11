@@ -90,8 +90,8 @@ cpop-pass/
 ------
 Roadmap
 
-Push Protocol integration
-ZK proof support
-Analytics dashboard
+- Push Protocol integration
+- ZK proof support
+- Analytics dashboard
 
 Twitter Id - https://x.com/Cpop_pass
