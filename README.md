@@ -81,9 +81,17 @@ cpop-pass/
 - Program ID:  
   `Br94deSSULwSGwekP5FsuZqYKfWxBajJmz7t7m5kQusz`
 
----
+--
 
 ## 🚀 Deployment
-
 - Smart Contract: Already deployed to Solana Devnet  
-- Fully browser-compatible experience for minting & claiming tokens  
+- Fully browser-compatible experience for minting & claiming tokens
+
+------
+Roadmap
+
+Push Protocol integration
+ZK proof support
+Analytics dashboard
+
+Twitter Id - https://x.com/Cpop_pass
