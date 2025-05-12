@@ -101,3 +101,6 @@ Contact & Community
 -Public- GitHub https://github.com/ShahiTechnovation/Cpop-pass
 -Twitter- https://x.com/Cpop_pass 
 -Demo link- https://youtu.be/W2CPdQ3ce4M?si=kGMhCU5rAVx64MRh
+---
+
+> Built for the Solana Hackathon with ❤️ using compressed NFTs and Light Protocol.
