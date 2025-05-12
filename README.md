@@ -75,8 +75,8 @@ cpop-pass/
 
 ## 🌐 Solana RPC & Program Info
 
-- RPC Endpoint (Helius Devnet):  
-  `https://devnet.helius-rpc.com/?api-key=247e8191-9ef3-4d0f-82f9-cfd98d52182b`
+-Using Helius Devnet RPC:
+  https://devnet.helius-rpc.com/?api-key=Secret
 
 - Program ID:  
   `Br94deSSULwSGwekP5FsuZqYKfWxBajJmz7t7m5kQusz`
@@ -90,8 +90,14 @@ cpop-pass/
 ------
 Roadmap
 
-- Push Protocol integration
-- ZK proof support
-- Analytics dashboard
+-Push Protocol integration for notifications
+-Creator analytics & reward dashboard
+-Full ZK Proof support
+-Multi-event badge system
 
-Twitter Id - https://x.com/Cpop_pass
+------
+Contact & Community
+
+-Public- GitHub https://github.com/ShahiTechnovation/Cpop-pass
+-Twitter- https://x.com/Cpop_pass 
+-Demo link- https://youtu.be/W2CPdQ3ce4M?si=kGMhCU5rAVx64MRh
